@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Michelle Mendez 👋
 
-<!--
-**michellemendez05/michellemendez05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Florida International University with interests in software engineering and artificial intelligence.
 
-Here are some ideas to get you started:
+I enjoy building backend systems, modern web applications, and machine learning solutions while continuously expanding my skills in software engineering and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- Backend Development
+- Cloud & DevOps
+- Artificial Intelligence & Machine Learning
+- Open Source
+- Distributed Systems
+
+## Technologies
+
+Python, Java, JavaScript, TypeScript, C, SQL
+
+## Projects
+
+- AI & Machine Learning Coursework
+- Global Empowerment Mission (GEM)
+- The SPF Initiative
+- AI Stealth Startup
+
+## Contact
+
+📧 Email michellemdzm@email.com
+
+🔗 LinkedIn
+https://www.linkedin.com/in/michelle-mendez-0137a330a/
