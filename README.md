@@ -8,15 +8,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
-Hello! I'm a Computer Science student at Florida International University pursuing a Bachelor of Science in Computer Science.
+Hi! I'm Michelle, a Computer Science student at Florida International University (FIU) and a member of the FIU Honors College.
 
-I'm passionate about software engineering, backend development, and machine learning. I enjoy building modern applications, solving real-world problems, and continuously learning new technologies.
+My career goal is to become a **Software Engineer**, focusing on designing, developing, and improving applications that solve real-world problems.
 
-Through my coursework and professional projects, I've developed experience in programming, data structures and algorithms, database systems, cloud technologies, and artificial intelligence.
+Through my coursework and hands-on projects, I've gained experience in full-stack development, programming, database systems, and collaborative software development.
 
-I'm always looking for opportunities to expand my skills, contribute to impactful projects, and collaborate with teams building innovative software.
+I'm passionate about creating impactful technology, strengthening my technical skills, and gaining professional experience through software engineering internships and projects.
+
+🎯 **Career Goal:** Software Engineer  
+💻 **Current Focus:** Full-Stack Software Development  
+🚀 **Seeking:** Software Engineering Internship Opportunities
 
 ---
 ## Interests
