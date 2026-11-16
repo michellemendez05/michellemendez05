@@ -1,6 +1,6 @@
 # Hi, I'm Michelle Mendez 👋
 
-**Computer Science Student | Aspiring Software Engineer**
+Aspiring Software Engineer | Computer Science @ FIU | Full-Stack Development | FIU Honors College
 
 📍 Florida International University (FIU)
 
